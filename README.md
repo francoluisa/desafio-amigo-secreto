@@ -7,7 +7,7 @@ Usando conhecimentos aprendidos nos cursos de lógica de programação com JavaS
 <p> Digite um nome de cada vez no campo e clique "Adicionar", será mostrado abaixo do campo os nomes adicionados. <br>
 Quando sua lista de nomes estiver pronta, clique em "Sortear Amigo" e seu amigo sorteado aparecerá.</p>
 
-[Amigo Secreto](https://francoluisa.github.io/desafio-amigo-secreto)
+[Amigo Secreto](https://francoluisa.github.io/desafio-amigo-secreto) <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" width="80" height="80">
 
 
 ## 💻 Cursos
@@ -27,3 +27,4 @@ Quando sua lista de nomes estiver pronta, clique em "Sortear Amigo" e seu amigo 
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
