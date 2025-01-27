@@ -30,3 +30,12 @@ function listarAmigos() {
         listaAmigos.appendChild(li);
     }    
 }
+
+function sortearAmigo () {
+    if (amigos == '') {
+        alert('Por favor, insira um nomes a lista.');
+    }
+    let nomeSorteado = Math.floor(Math.random() * amigos.length);
+    let resultado = document.getElementById('resultado');
+    resultado.innerHTML = `O Amigo secreto sorteado é ${amigos[nomeSorteado]}`;
+}
